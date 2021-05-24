@@ -9,7 +9,7 @@ I'm a 2nd year student at MIT, Manipal focused on Engine/Graphics/Systems Progra
 
 #### Projects:
 
-- **Argon3D:** A 3D software renderer written completely from scratch with **C++**
+- [**Argon3D:**](https://github.com/H0mTanks/Argon3DRenderer/) A 3D software renderer written completely from scratch with **C++**
 - **Clank:** Clank is a simple 2D Game Engine written with **C++** and **SDL2**
 - **Chip8 Emulator:** An emulator for the Chip8 Machine written in **C++**
 
