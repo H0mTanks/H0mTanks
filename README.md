@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello There
+
+I'm 2nd year at MIT, Manipal focused on Engine/Graphics/Systems Programming.
+
+
+- Pronouns: *He/Him*
+- Languages: Primarily use *C++/C*, *Java*, *Python*
+- Currently learning OpenGL
+
+## Projects:
+
+- *Argon3D:* A 3D software renderer written completely from scratch with C++
+- *Clank:* Clank is a simple 2D Game Engine written with C++ and SDL2
+- *Chip8 Emulator:* An emulator for the Chip8 Machine written in C++
 
 <!--
 **H0mTanks/H0mTanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
