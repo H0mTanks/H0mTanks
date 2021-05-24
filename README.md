@@ -12,6 +12,9 @@ I'm a 2nd year student at MIT, Manipal focused on Engine/Graphics/Systems Progra
 - **Argon3D:** A 3D software renderer written completely from scratch with **C++**
 - **Clank:** Clank is a simple 2D Game Engine written with **C++** and **SDL2**
 - **Chip8 Emulator:** An emulator for the Chip8 Machine written in **C++**
+
+
+I use the **Visual Studio IDE** for most of my development/debugging, but I'm also familiar with **make** and **gdb**
 <!--
 **H0mTanks/H0mTanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
