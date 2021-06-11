@@ -9,7 +9,7 @@ I'm a 2nd year student at MIT, Manipal focused on Engine/Graphics/Systems Progra
 
 #### Projects:
 
-- [**HackComputer Toolchain:**](https://github.com/H0mTanks/HackComputer) A WIP implementation of the Hack Assembler, VMTranslato, a Compiler for the Jack Programming language and JackOS as part of the nand2tetris course.
+- [**HackComputer Toolchain:**](https://github.com/H0mTanks/HackComputer) A WIP implementation of the Hack Assembler, VMTranslator, a Compiler for the Jack Programming language and JackOS as part of the nand2tetris course. All of them written in C++ with the OS being written in Jack.
 - [**Argon3D:**](https://github.com/H0mTanks/Argon3DRenderer/) A 3D software renderer written completely from scratch with **C++**
 - [**Clank:**](https://github.com/H0mTanks/Clank2DGameEngine) Clank is a simple 2D Game Engine written with **C++** and **SDL2**
 - [**Chip8 Emulator:**](https://github.com/H0mTanks/Chip8EmulatorCpp) An emulator for the Chip8 Machine written in **C++**
