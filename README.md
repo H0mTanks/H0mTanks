@@ -1,6 +1,6 @@
 ### Hello There
 
-I'm a 2nd year student at MIT, Manipal focused on Engine/Graphics/Systems Programming.
+I'm a 3rd year student at MIT, Manipal focused on Engine/Graphics/Systems Programming.
 
 
 - Pronouns: *He/Him*
