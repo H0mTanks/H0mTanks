@@ -4,7 +4,7 @@ I'm a 4th year student at MIT, Manipal focused on Engine/Graphics/Systems Progra
 
 
 - Pronouns: *He/Him*
-- Languages: Primarily use **C++/C**, **x64_86 Assembly**, **Java**, **Python**
+- Languages: Primarily use **C++/C**, **x64_86 Assembly**, **C#**, **Python**
 - Currently learning OpenGL
 
 #### Projects:
