@@ -14,7 +14,7 @@ I like Systems Programming.
 - [**Chip8 Emulator:**](https://github.com/H0mTanks/Chip8EmulatorCpp) An emulator for the Chip8 Machine written in **C++**
 
 
-I use the **Visual Studio IDE** for most of my development/debugging, but I'm also familiar with **make** and **gdb**
+I use VSCode and RemedyBG for most of my development/debugging, but I'm also familiar with Visual Studio, gdb.
 <!--
 **H0mTanks/H0mTanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
