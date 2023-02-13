@@ -5,7 +5,6 @@ I like Systems Programming.
 
 - Pronouns: *He/Him*
 - Languages: Primarily use **C++/C**, **x64_86 Assembly**, **C#**, **Python**
-- Currently learning OpenGL
 
 #### Projects:
 
